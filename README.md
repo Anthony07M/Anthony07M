@@ -1,7 +1,6 @@
 Olá, Eu sou o Anthony Freitas!
 
-🔭 Não estou trabalhando. <br/>
-🌱 Estudando ReactJs.
+🌱 Sou Desenvolvedor Fullstack jr.
 
 <div>
   <a href="https://github.com/Anthony07M">
