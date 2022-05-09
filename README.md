@@ -1,7 +1,3 @@
-Olá, Eu sou o Anthony Freitas!
-
-🌱 Sou Desenvolvedor Fullstack jr.
-
 <div>
   <a href="https://github.com/Anthony07M">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anthony07M&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
