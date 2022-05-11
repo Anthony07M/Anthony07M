@@ -1,4 +1,4 @@
-😃 - Olá eu sou o Anthony Freitas!
+😃
 
 ##
 <div>
